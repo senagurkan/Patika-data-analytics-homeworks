@@ -1,0 +1,12 @@
+# Tüm CSV dosyalarını ignore et (alt klasörler dahil)
+*.csv
+
+# Jupyter Notebook checkpoint klasörleri
+.ipynb_checkpoints/
+
+# Mac sistem dosyaları
+.DS_Store
+
+# Python bytecode dosyaları
+__pycache__/
+*.pyc
