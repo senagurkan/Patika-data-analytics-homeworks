@@ -10,3 +10,5 @@
 # Python bytecode dosyaları
 __pycache__/
 *.pyc
+
+data/
